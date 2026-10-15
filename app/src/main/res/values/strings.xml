@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TITAN Pro</string>
+    <string name="server_running">موتور TITAN در حال اجرا</string>
+    <string name="permission_storage_title">مجوز حافظه</string>
+    <string name="permission_storage_message">TITAN تمام داده‌ها را فقط داخل پوشه MMM ذخیره می‌کند. لطفاً دسترسی کامل به فایل‌ها را بدهید.</string>
+</resources>
