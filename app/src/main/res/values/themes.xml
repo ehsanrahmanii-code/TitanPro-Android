@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TitanPro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#22d3ee</item>
+        <item name="colorPrimaryVariant">#0e7490</item>
+        <item name="colorOnPrimary">#0a0e1a</item>
+        <item name="colorSecondary">#a78bfa</item>
+        <item name="android:statusBarColor">#0a0e1a</item>
+        <item name="android:navigationBarColor">#0a0e1a</item>
+        <item name="android:windowBackground">#0a0e1a</item>
+        <item name="android:colorBackground">#0a0e1a</item>
+    </style>
+
+    <style name="Theme.TitanPro.Splash" parent="Theme.TitanPro">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">#0a0e1a</item>
+    </style>
+</resources>
